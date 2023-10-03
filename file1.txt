@@ -1,1 +1,5 @@
 Welcome! Let's learn.
+
+Dodavanje - Source Control lijepo i tu nam pise broju u koliko je fine izvrsena promjena
+Zatim imamo branch u kojem smo trenutno
+Te imamo box za poruku tj za svaku verziju i izmjenu stavimo u taj box da bi lakse bilo poslije naci to u kodu
